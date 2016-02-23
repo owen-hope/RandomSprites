@@ -1,0 +1,9 @@
+C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment2\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\R2D2.xnb
+C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment2\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\stormtrooper.xnb
+C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment2\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\Content\yoda.xnb
+C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment2\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\ProgrammingAssignment2.exe
+C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment2\ProgrammingAssignment2\ProgrammingAssignment2\bin\x86\Debug\ProgrammingAssignment2.pdb
+C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment2\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment2\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.exe
+C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment2\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.pdb
+C:\Users\Owen\Documents\Visual Studio 2010\Projects\ProgrammingAssignment2\ProgrammingAssignment2\ProgrammingAssignment2\obj\x86\Debug\ProgrammingAssignment2.csprojResolveAssemblyReference.cache
